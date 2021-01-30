@@ -1,0 +1,7 @@
+requests
+python-dotenv
+numpy
+tf-nightly
+h5py
+discord.py
+pillow
